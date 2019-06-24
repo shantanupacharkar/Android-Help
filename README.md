@@ -1,6 +1,8 @@
 ## Tips & Tricks in Android Studio
 #### Being an Android Developer, we use a number of IDE for writing the code for our Application. For example, Android Studio, Eclipse, etc. But the most famous and the recommended one among these IDE’s is the Android Studio. Nowadays, everyone uses Android Studio to write codes for their Application because Android Studio gives us a lot of functionalities and features, speeding up out code generation. Also, we get an organized way to manage our project in Android Studio. The IDE is equipped with many tools to help the developer in the process. So, let’s look upon some of the Tips and Tricks of Android Studio.
 
+ - Setting the Theme [#### 1. Setting the Theme]
+
 #### 1. Setting the Theme
 The theme of the IDE plays an important role in determining the time that we can spend on Android Studio to write code. So, a good and eye soothing theme must be there. To change the Theme and color of the Android Studio, go to **File > Settings > Appearance & Behavior > Appearance > Theme** and then choose the desired **Theme**. To change the color of the editor text, you can go to **File > Settings > Editor** and change the desired property. (Note: In MAC, instead of going to Settings, you can find the options in **Preferences**)
 
@@ -29,7 +31,7 @@ Split Screen is a new feature that is provided by almost every modern day’s ID
 #### 6. Distraction Free Mode
 You can use the Distraction Free Mode of Android Studio to remove the editor tabs and tool-windows buttons. By doing so, your focus will be on the coding part and nothing else. To enable the *Distraction Free Mode*, go to **View > Enter Distraction Free Mode**.
 
-![Distraction Free Mode](https://github.com/shantanupacharkar/Android-Help/blob/master/res/images/tips-tricks-android-studio-distraction-free-mode.jpg)
+![Distraction Free Mode](https://github.com/shantanupacharkar/Android-Help/blob/master/res/images/tips-tricks-android-studio-distraction-free-mode.jpg
 
 #### 7. Code Completion
 You can use the Postfix Code Completion to write the code in a faster way. All you need to do is press **Ctrl + J** or **Cmd + J**(in MAC) and Android Studio will give you a number of possible codes. For example, if you want to write the code for a Toast, then just write “**T**” and press **Ctrl + J**, you will be given a list of possible items. Select **Toast** and click **Enter**.
