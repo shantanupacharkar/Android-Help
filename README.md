@@ -79,3 +79,5 @@ You can use a number of plugins available in Android studio to improve the funct
  - Git flow integration: This helps you to have a defined flow of version control of your project.
  - Genymotion plugin: It is used to provide a smooth flow for Genymotion virtual devices.
  - Key Promoter: It is used to make your own shortcut keys for a particular task.
+ 
+###### If you want to know more about your project in Android Studio then go to Help > Productivity Guide (Bonus tip :))
