@@ -1,7 +1,7 @@
 ## Tips & Tricks in Android Studio
 #### Being an Android Developer, we use a number of IDE for writing the code for our Application. For example, Android Studio, Eclipse, etc. But the most famous and the recommended one among these IDE’s is the Android Studio. Nowadays, everyone uses Android Studio to write codes for their Application because Android Studio gives us a lot of functionalities and features, speeding up out code generation. Also, we get an organized way to manage our project in Android Studio. The IDE is equipped with many tools to help the developer in the process. So, let’s look upon some of the Tips and Tricks of Android Studio.
 
- - [Setting the Theme](#1. Setting the Theme)
+ - [Setting the Theme](#setting-the-theme)
  - [Changing Color of Logcat](#2. Changing Color of Logcat)
  - [Fast Searching](#3. Fast Searching)
  - [Rename file/variable](#4.rename-file/variable)
