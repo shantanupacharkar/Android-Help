@@ -1,10 +1,31 @@
 ## Tips & Tricks in Android Studio
 #### Being an Android Developer, we use a number of IDE for writing the code for our Application. For example, Android Studio, Eclipse, etc. But the most famous and the recommended one among these IDE’s is the Android Studio. Nowadays, everyone uses Android Studio to write codes for their Application because Android Studio gives us a lot of functionalities and features, speeding up out code generation. Also, we get an organized way to manage our project in Android Studio. The IDE is equipped with many tools to help the developer in the process. So, let’s look upon some of the Tips and Tricks of Android Studio.
 
- - [Setting the Theme](#1-setting-the-theme)
- - [Changing Color of Logcat](#2-changing-color-of-logcat)
- - [Fast Searching](#3-fast-searching)
- - [Rename file/variable](#4-rename-file/variable)
+1. [Setting the Theme](#1-setting-the-theme)
+2. [Changing Color of Logcat](#2-changing-color-of-logcat)
+3. [Fast Searching](#3-fast-searching)
+4. [Rename file/variable](#4-rename-filevariable)
+5. [Split Screen](#5-split-screen)
+6. [Distraction Free Mode](#6-distraction-free-mode)
+7. [Code Completion](#7-code-completion)
+8. [Working Offline](#8-working-offline)
+9. [Line Number and Method Separator](#9-line-number-and-method-separator)
+10. [Multicursor Feature](#10-multicursor-feature)
+11. [Last Copy & Paste](#11-last-copy-&-paste)
+12. [Open Class](#12-open-class)
+13. [Open File](#13-open-file)
+14. [Find Declaration](#14-find-declaration)
+15. [Move between tabs](#15-move-between-tabs)
+16. [Last tab](#16-last-tab)
+17. [Format your code](#17-format-your-code)
+18. [Auto-indent line](#18-autoindent-line)
+19. [Find](#19-find)
+20. [Find and Replace](#20-find-and-replace)
+21. [Hardcoded String to resources](#21-hardcoded-string-to-resources)
+22. [Build and Run](#22-build-and-run)
+23. [Last edited location](#23-last-edited-location)
+24. [Close active editor tab](#24-close-active-editor-tab)
+25. [Using Plugins](#25-using-plugins)
 
 #### 1. Setting the Theme
 The theme of the IDE plays an important role in determining the time that we can spend on Android Studio to write code. So, a good and eye soothing theme must be there. To change the Theme and color of the Android Studio, go to **File > Settings > Appearance & Behavior > Appearance > Theme** and then choose the desired **Theme**. To change the color of the editor text, you can go to **File > Settings > Editor** and change the desired property. (Note: In MAC, instead of going to Settings, you can find the options in **Preferences**)
@@ -59,56 +80,56 @@ You can choose from your last 5 Copy/Paste operations by clicking **Ctrl + Shift
 
 ![Last Copy Paste](https://github.com/shantanupacharkar/Android-Help/blob/master/res/images/tips-tricks-android-studio-last-copy-paste.jpg)
 
-#### 12. Open Class: 
+#### 12. Open Class
 In order to open a class in Android Studio, press **Ctrl + N** (in Windows and Linux) or **Cmd + O** (in Mac).
 
 ![Find Class](https://github.com/shantanupacharkar/Android-Help/blob/master/res/images/tips-tricks-android-studio-find-class.png)
 
-#### 13. Open File: 
+#### 13. Open File
 To open file press **Ctrl + Shift + N** (in Windows and Linux) or **Cmd + Shift + O** (in Mac).
 
 ![Find Files](https://github.com/shantanupacharkar/Android-Help/blob/master/res/images/tips-tricks-android-studio-find-files.png)
 
-#### 14. Find Declaration: 
+#### 14. Find Declaration
 You can find the declaration of any class and its method by clicking on that class and pressing **Ctrl + B** (in windows and Linux) or **Cmd + B** (in Mac).
 
-#### 15. Move between tabs: 
+#### 15. Move between tabs
 You can move between tabs by pressing **Alt + left/right** arrow (in Windows and Linux) or **Cmd + Shift + [ (left) and Cmd + Shift + ] (right)** in Mac.
 
-#### 16. Last tab: 
+#### 16. Last tab
 You can switch between last tabs by using **Ctrl + Tab** (in windows and Linux) and **Cmd + Tab** (in Mac).
 
-#### 17. Format your code: 
+#### 17. Format your code
 You can format your code by using **Ctrl + Alt + L** (in windows and Linux) or **Cmd + Option + L** (in Mac). Formatting means rearranging the declaration of attributes. For example, “**id**” of a TextView should be written before the width and height property. This makes the code more readable.
 
-#### 18. Auto-indent line: 
+#### 18. Auto-indent line
 You can apply indentation by using **Ctrl + Alt + I** (in Windows and Linux) or **Control + Option + I** (in Mac).
 
-#### 19. Find:
+#### 19. Find
 You can find something in a file by using **Ctrl + F** (in Windows and Linux) or **Cmd + F** (in Mac).
 
 ![Find](https://github.com/shantanupacharkar/Android-Help/blob/master/res/images/tips-tricks-android-studio-find.png)
 
-#### 20. Find and Replace: 
+#### 20. Find and Replace
 You can use find and replace feature by pressing **Ctrl + R** (in Windows and Linux) or **Cmd + R** (in Mac).
 
 ![Find & Replace](https://github.com/shantanupacharkar/Android-Help/blob/master/res/images/tips-tricks-android-studio-find-replace.png)
 
-#### 21. Hardcoded String to resources: 
+#### 21. Hardcoded String to resources
 You can move your hardcoded string to string.xml file or any other resources file by just clicking on the string and pressing **Alt + Enter** (in Windows and Linux) or **Option + Return** (in Mac) and then Extract String Resource.
 
 ![Hard Coding Strings](https://github.com/shantanupacharkar/Android-Help/blob/master/res/images/tips-tricks-android-studio-hardcodedstring-resources.png)
 
-#### 22. Build and Run:
+#### 22. Build and Run
 To build and run your app, press **Shift + F10** (in Windows and Linux) or **Control + R** (in Mac).
 
-#### 23. Last edited location: 
+#### 23. Last edited location
 You can directly move on to the last edited location in a particular file by pressing **Ctrl + Shift + Backspace** (in Windows and Linux) or **Cmd + Shift + Backspace** (in Mac).
 
-#### 24. Close active editor tab:
+#### 24. Close active editor tab
 You can close the active editor tab by pressing **Ctrl + F4** (in Windows and Linux) or **Cmd + W** (in Mac).
 
-#### 25. Using Plugins: 
+#### 25. Using Plugins
 You can use a number of plugins available in Android studio to improve the functionality of Android Studio. Some of these may be:
  - ADB Idea: It helps to execute adb commands to uninstall, kill, start, restart or clear an application.
  - Android Material Design Icon Generator: This plugin will help you to generate Material Design Icons for your project.
