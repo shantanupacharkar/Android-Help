@@ -2,6 +2,9 @@
 #### Being an Android Developer, we use a number of IDE for writing the code for our Application. For example, Android Studio, Eclipse, etc. But the most famous and the recommended one among these IDE’s is the Android Studio. Nowadays, everyone uses Android Studio to write codes for their Application because Android Studio gives us a lot of functionalities and features, speeding up out code generation. Also, we get an organized way to manage our project in Android Studio. The IDE is equipped with many tools to help the developer in the process. So, let’s look upon some of the Tips and Tricks of Android Studio.
 
  - [Setting the Theme](#1.setting-the-theme)
+ - [Changing Color of Logcat](#2.changing-color-of-logcat)
+ - [Fast Searching](#3.fast-searching)
+ - [Rename file/variable](#4.rename-file/variable)
 
 #### 1. Setting the Theme
 The theme of the IDE plays an important role in determining the time that we can spend on Android Studio to write code. So, a good and eye soothing theme must be there. To change the Theme and color of the Android Studio, go to **File > Settings > Appearance & Behavior > Appearance > Theme** and then choose the desired **Theme**. To change the color of the editor text, you can go to **File > Settings > Editor** and change the desired property. (Note: In MAC, instead of going to Settings, you can find the options in **Preferences**)
