@@ -18,7 +18,7 @@
 15. [Move between tabs](#15-move-between-tabs)
 16. [Last tab](#16-last-tab)
 17. [Format your code](#17-format-your-code)
-18. [Auto-indent line](#18-autoindent-line)
+18. [Auto-indent line](#18-auto-indent-line)
 19. [Find](#19-find)
 20. [Find and Replace](#20-find-and-replace)
 21. [Hardcoded String to resources](#21-hardcoded-string-to-resources)
