@@ -55,7 +55,7 @@ Split Screen is a new feature that is provided by almost every modern day’s ID
 #### 6. Distraction Free Mode
 You can use the Distraction Free Mode of Android Studio to remove the editor tabs and tool-windows buttons. By doing so, your focus will be on the coding part and nothing else. To enable the *Distraction Free Mode*, go to **View > Enter Distraction Free Mode**.
 
-![Distraction Free Mode](https://github.com/shantanupacharkar/Android-Help/blob/master/res/images/tips-tricks-android-studio-distraction-free-mode.jpg
+![Distraction Free Mode](https://github.com/shantanupacharkar/Android-Help/blob/master/res/images/tips-tricks-android-studio-distraction-free-mode.jpg)
 
 #### 7. Code Completion
 You can use the Postfix Code Completion to write the code in a faster way. All you need to do is press **Ctrl + J** or **Cmd + J**(in MAC) and Android Studio will give you a number of possible codes. For example, if you want to write the code for a Toast, then just write “**T**” and press **Ctrl + J**, you will be given a list of possible items. Select **Toast** and click **Enter**.
